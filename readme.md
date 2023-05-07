@@ -32,4 +32,4 @@ Outline
 1. Hands-on building of KGs in Python
 1. Using KGs with large language models (LLM) 
 
-[Contact here for availability and pricing](mailto: bspiering@gmail)
+[Contact here for availability and pricing](mailto:bspiering@gmail.com)
